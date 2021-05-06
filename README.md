@@ -1,2 +1,0 @@
-# ajcwebdev-begin
-Begin app
